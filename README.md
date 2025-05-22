@@ -29,3 +29,5 @@ They include custom-built configurators, price calculators, and advanced request
 - [Klimaspol - configurator](https://www.klimaspol.eu/konfigurator-klimatizaci/)
 
 ---
+##🎓 Web Applications from Bachelor's and Master's Theses
+This section includes web applications developed as part of my university theses. These projects demonstrate my ability to design and implement more complex interactive systems with a focus on functionality, user interaction, and performance.
