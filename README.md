@@ -18,7 +18,7 @@ This is a selection of websites created based on graphic designs provided by a d
 
 ---
 
-##  Websites with Custom Features (Configurators, Calculators, Request Forms, etc.)
+## ⚙️ Websites with Custom Features (Configurators, Calculators, Request Forms, etc.)
 
 These projects involved implementing various interactive features tailored to the needs of each website.
 They include custom-built configurators, price calculators, and advanced request or contact forms.
@@ -29,5 +29,12 @@ They include custom-built configurators, price calculators, and advanced request
 - [Klimaspol - configurator](https://www.klimaspol.eu/konfigurator-klimatizaci/)
 
 ---
-##🎓 Web Applications from Bachelor's and Master's Theses
-This section includes web applications developed as part of my university theses. These projects demonstrate my ability to design and implement more complex interactive systems with a focus on functionality, user interaction, and performance.
+##🎓 Web Applications from university thesis
+This section includes web applications developed as part of my Bachelor's and Master's Theses.
+
+- [Julia set geenrator - Bachelor's thesis](https://machar6.github.io/JuliaSetGenerator/)
+- [Fractal geenrator - Master's thesis](https://machar6.github.io/FractalGenerator/)
+
+For a deeper look into the source code and implementation details, you can explore the corresponding repositories on GitHub:  
+- [JuliaSetGenerator](https://github.com/Machar6/JuliaSetGenerator)
+- [FractalGenerator](https://github.com/Machar6/FractalGenerator)
