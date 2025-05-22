@@ -29,7 +29,7 @@ They include custom-built configurators, price calculators, and advanced request
 - [Klimaspol - configurator](https://www.klimaspol.eu/konfigurator-klimatizaci/)
 
 ---
-##🎓 Web Applications from university thesis
+## 🎓 Web Applications from university thesis
 This section includes web applications developed as part of my Bachelor's and Master's Theses.
 
 - [Julia set geenrator - Bachelor's thesis](https://machar6.github.io/JuliaSetGenerator/)
