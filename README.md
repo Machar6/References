@@ -32,8 +32,8 @@ They include custom-built configurators, price calculators, and advanced request
 ## 🎓 Web Applications from university thesis
 This section includes web applications developed as part of my Bachelor's and Master's Theses.
 
-- [Julia set geenrator - Bachelor's thesis](https://machar6.github.io/JuliaSetGenerator/)
-- [Fractal geenrator - Master's thesis](https://machar6.github.io/FractalGenerator/)
+- [Julia set generator - Bachelor's thesis](https://machar6.github.io/JuliaSetGenerator/)
+- [Fractal generator - Master's thesis](https://machar6.github.io/FractalGenerator/)
 
 For a deeper look into the source code and implementation details, you can explore the corresponding repositories on GitHub:  
 - [JuliaSetGenerator](https://github.com/Machar6/JuliaSetGenerator)
