@@ -5,11 +5,15 @@ This repository contains a list of my professional references, selected projects
 
 ## 🌐 Websites Created from Pre-designed Templates
 
-These websites were created based on graphic designs provided by a designer. I selected and modified existing templates to match the visual style and project requirements, making structural and functional adjustments where needed.
+This is a selection of websites created based on graphic designs provided by a designer. I modified existing templates to match the visual style and project requirements.
 
-- [Website for Company A](https://example-a.com)
-- [Product Landing Page for Brand B](https://example-b.com)
-- [Portfolio Template Adaptation](https://example-c.com)
+- [TranSun s.r.o.](https://www.sunoco.cz/)
+- [El-Morrel s.r.o.](https://www.el-morrel.cz/)
+- [STOFFBAU s.r.o.](https://www.stoffbau.cz/)
+- [Polychroma s.r.o.](https://www.polychroma.cz/)
+- [Enterprise Consulting s.r.o.](https://www.enterprise-consulting.cz/)
+- [Svatba na křídlech](https://www.svatbanakridlech.cz/)
+- [A-Z STAVBY Blažek s.r.o.](https://www.a-zstavby.cz/)
 
 ---
 
